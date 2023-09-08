@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Stardust",
+    "synopsis": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.",
+    "trailerUrl": "https://www.youtube.com/watch?v=-wwv427DAvA",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": "10",
+    "genreId": "2",
+    "authorId": "1"
+  },
+  {
+    "title": "Movie 1",
+    "synopsis": "This is the synopsis for Movie 1.",
+    "trailerUrl": "https://www.example.com/trailer1",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.5,
+    "genreId": 1,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 2",
+    "synopsis": "This is the synopsis for Movie 2.",
+    "trailerUrl": "https://www.example.com/trailer2",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.8,
+    "genreId": 2,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 3",
+    "synopsis": "This is the synopsis for Movie 3.",
+    "trailerUrl": "https://www.example.com/trailer3",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2,
+    "genreId": 3,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 4",
+    "synopsis": "This is the synopsis for Movie 4.",
+    "trailerUrl": "https://www.example.com/trailer4",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.6,
+    "genreId": 4,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 5",
+    "synopsis": "This is the synopsis for Movie 5.",
+    "trailerUrl": "https://www.example.com/trailer5",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0,
+    "genreId": 1,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 6",
+    "synopsis": "This is the synopsis for Movie 6.",
+    "trailerUrl": "https://www.example.com/trailer6",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9,
+    "genreId": 2,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 7",
+    "synopsis": "This is the synopsis for Movie 7.",
+    "trailerUrl": "https://www.example.com/trailer7",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.1,
+    "genreId": 3,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 8",
+    "synopsis": "This is the synopsis for Movie 8.",
+    "trailerUrl": "https://www.example.com/trailer8",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3,
+    "genreId": 4,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 9",
+    "synopsis": "This is the synopsis for Movie 9.",
+    "trailerUrl": "https://www.example.com/trailer9",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.7,
+    "genreId": 1,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 10",
+    "synopsis": "This is the synopsis for Movie 10.",
+    "trailerUrl": "https://www.example.com/trailer10",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.6,
+    "genreId": 2,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 11",
+    "synopsis": "This is the synopsis for Movie 11.",
+    "trailerUrl": "https://www.example.com/trailer11",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.8,
+    "genreId": 3,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 12",
+    "synopsis": "This is the synopsis for Movie 12.",
+    "trailerUrl": "https://www.example.com/trailer12",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.0,
+    "genreId": 4,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 13",
+    "synopsis": "This is the synopsis for Movie 13.",
+    "trailerUrl": "https://www.example.com/trailer13",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.2,
+    "genreId": 1,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 14",
+    "synopsis": "This is the synopsis for Movie 14.",
+    "trailerUrl": "https://www.example.com/trailer14",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.3,
+    "genreId": 2,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 15",
+    "synopsis": "This is the synopsis for Movie 15.",
+    "trailerUrl": "https://www.example.com/trailer15",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.9,
+    "genreId": 3,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 16",
+    "synopsis": "This is the synopsis for Movie 16.",
+    "trailerUrl": "https://www.example.com/trailer16",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.6,
+    "genreId": 4,
+    "authorId": 1
+  },
+  {
+    "title": "Movie 17",
+    "synopsis": "This is the synopsis for Movie 17.",
+    "trailerUrl": "https://www.example.com/trailer17",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": 4.5,
+    "genreId": 1,
+    "authorId": 1
+  },
+  {
+    "title": "Stardust",
+    "synopsis": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.",
+    "trailerUrl": "https://www.youtube.com/watch?v=-wwv427DAvA",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": "10",
+    "genreId": "1",
+    "authorId": "1"
+  },
+  {
+    "title": "Stardust",
+    "synopsis": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.",
+    "trailerUrl": "https://www.youtube.com/watch?v=-wwv427DAvA",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_FMjpg_UX1000_.jpg",
+    "rating": "10",
+    "genreId": "3",
+    "authorId": "1"
+  }
+]

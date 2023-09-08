@@ -1,0 +1,17 @@
+[
+  {
+    "email": "kiki123@email.com",
+    "password": "asdasd123",
+    "role": "Customer"
+  },
+  {
+    "email": "lele123@email.com",
+    "password": "asdasd123",
+    "role": "Customer"
+  },
+  {
+    "email": "kaka123@email.com",
+    "password": "asdasd123",
+    "role": "Customer"
+  }
+]

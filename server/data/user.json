@@ -1,0 +1,42 @@
+[
+  {
+    "username": "victor",
+    "email": "victor123@email.com",
+    "password": "asdasd123",
+    "role": "Admin",
+    "phoneNumber": "0808-0808-0801",
+    "address": "Jalan merdeka No. 4"
+  },
+  {
+    "username": "christopher",
+    "email": "christopher123@email.com",
+    "password": "asdasd123",
+    "role": "Staff",
+    "phoneNumber": "0808-0808-0802",
+    "address": "Jalan merdeka No. 5"
+  },
+  {
+    "username": "malik",
+    "email": "malik123@email.com",
+    "password": "asdasd123",
+    "role": "Staff",
+    "phoneNumber": "0808-0808-0803",
+    "address": "Jalan merdeka No. 6"
+  },
+  {
+    "username": "revi",
+    "email": "revi123@email.com",
+    "password": "asdasd123",
+    "role": "Staff",
+    "phoneNumber": "0808-0808-0804",
+    "address": "Jalan merdeka No. 7"
+  },
+  {
+    "username": "lala",
+    "email": "lala123@email.com",
+    "password": "asdasd123",
+    "role": "Staff",
+    "phoneNumber": "0808-0808-0805",
+    "address": "Jalan merdeka No. 8"
+  }
+]
